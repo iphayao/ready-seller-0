@@ -1,0 +1,2 @@
+# ready-seller
+Seller Application 
